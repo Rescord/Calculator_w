@@ -71,7 +71,7 @@
 .all:hover {
     filter:brightness(160%);}
 
-.Type {
+.hat__type {
     color: white;
     font-size: x-large;
     flex: 1 0,5 auto;
@@ -83,14 +83,14 @@
     padding-top: 10px;
     padding-left: 10px;}
 
-.menu {
+.hat__menu {
     flex: 1 0,5 auto;
     margin: 0 5px;}
 
-.reestablish {
+.hat__reestablish {
     flex: 1 1 auto;
     margin: 0 5px;}
 
-.history {
+.hat__history {
     flex: 0.05 1 auto;
     margin: 0 3px;}
